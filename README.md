@@ -1,0 +1,2 @@
+# GitHub-Trending-Project
+每日定时获取GitHub上Trending中star数量大于300的项目
